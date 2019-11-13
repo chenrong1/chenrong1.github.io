@@ -19,7 +19,3 @@ type: page
 * [Vuejs 1.0 中文系列视频教程 -Laravist](https://laravist.com/series/vue-js-1-0-in-action-series)
 * [Vuejs-QQ群 相关资料](https://github.com/jsfront/src/blob/master/vuejs.md) 来自豪情
 
-
-## Comments
-
-{% include comments.html %}
