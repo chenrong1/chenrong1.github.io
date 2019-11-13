@@ -16,9 +16,9 @@ type: page
 
 * GitHub：[ChenRong](https://github.com/chenrong108)
 * email：20162005077@m.scnu.edu.cn
-* [Weibo]
-* [知乎]
-* [Facebook]
+* [Weibo](http:www.chenrong.xyz)
+* [知乎](http://www.chenrong.xyz)
+* [Facebook](http://www.chenrong.xyz)
 
 ## 友情链接
 
