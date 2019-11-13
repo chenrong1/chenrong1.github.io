@@ -7,7 +7,7 @@
 
 # Site settings
 title: 陈荣的专栏
-brief-intro: 热爱Java后端开发，不断追求技术，勇攀高峰~
+brief-intro: 热爱Java后端开发，不断追求技术~~
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chenrong108.github.io" # the base hostname & protocol for your site
 
